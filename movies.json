@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Captain America: The First Avenger",
+    "release_date": "2011-07-22",
+    "chronological_order": 1,
+    "phase": "Phase One",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+    "main_character": "Captain America"
+  },
+  {
+    "title": "Captain Marvel",
+    "release_date": "2019-03-08",
+    "chronological_order": 2,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "main_character": "Captain Marvel"
+  },
+  {
+    "title": "Iron Man",
+    "release_date": "2008-05-02",
+    "chronological_order": 3,
+    "phase": "Phase One",
+    "poster_url": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "main_character": "Iron Man"
+  },
+  {
+    "title": "Iron Man 2",
+    "release_date": "2010-05-07",
+    "chronological_order": 4,
+    "phase": "Phase One",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "main_character": "Iron Man"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "release_date": "2008-06-13",
+    "chronological_order": 5,
+    "phase": "Phase One",
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZWCvHlK21fBybaYid5oViDhThsMyzkhseQ&s",
+    "main_character": "Hulk"
+  },
+  {
+    "title": "Thor",
+    "release_date": "2011-05-06",
+    "chronological_order": 6,
+    "phase": "Phase One",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_.jpg",
+    "main_character": "Thor"
+  },
+  {
+    "title": "The Avengers",
+    "release_date": "2012-05-04",
+    "chronological_order": 7,
+    "phase": "Phase One",
+    "poster_url": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "main_character": "Avengers"
+  },
+  {
+    "title": "Iron Man 3",
+    "release_date": "2013-05-03",
+    "chronological_order": 8,
+    "phase": "Phase Two",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+    "main_character": "Iron Man"
+  },
+  {
+    "title": "Thor: The Dark World",
+    "release_date": "2013-11-08",
+    "chronological_order": 9,
+    "phase": "Phase Two",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_FMjpg_UX1000_.jpg",
+    "main_character": "Thor"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_date": "2014-04-04",
+    "chronological_order": 10,
+    "phase": "Phase Two",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+    "main_character": "Captain America"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "release_date": "2014-08-01",
+    "chronological_order": 11,
+    "phase": "Phase Two",
+    "poster_url": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "main_character": "Star-Lord"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "release_date": "2017-05-05",
+    "chronological_order": 12,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "main_character": "Star-Lord"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "release_date": "2015-05-01",
+    "chronological_order": 13,
+    "phase": "Phase Two",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "main_character": "Avengers"
+  },
+  {
+    "title": "Ant-Man",
+    "release_date": "2015-07-17",
+    "chronological_order": 14,
+    "phase": "Phase Two",
+    "poster_url": "https://lumiere-a.akamaihd.net/v1/images/p_antman_19916_2502181d.jpeg",
+    "main_character": "Ant-Man"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "release_date": "2016-05-06",
+    "chronological_order": 15,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "main_character": "Captain America"
+  },
+  {
+    "title": "Black Widow",
+    "release_date": "2021-07-09",
+    "chronological_order": 16,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "main_character": "Black Widow"
+  },
+  {
+    "title": "Black Panther",
+    "release_date": "2018-02-16",
+    "chronological_order": 17,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "main_character": "Black Panther"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "release_date": "2017-07-07",
+    "chronological_order": 18,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "main_character": "Spider-Man"
+  },
+  {
+    "title": "Doctor Strange",
+    "release_date": "2016-11-04",
+    "chronological_order": 19,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "main_character": "Doctor Strange"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "release_date": "2017-11-03",
+    "chronological_order": 20,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "main_character": "Thor"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "release_date": "2018-04-27",
+    "chronological_order": 21,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "main_character": "Avengers"
+  },
+  {
+    "title": "Ant-Man and The Wasp",
+    "release_date": "2018-07-06",
+    "chronological_order": 22,
+    "phase": "Phase Three",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_.jpg",
+    "main_character": "Ant-Man"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "release_date": "2019-04-26",
+    "chronological_order": 23,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "main_character": "Avengers"
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "release_date": "2019-07-02",
+    "chronological_order": 24,
+    "phase": "Phase Three",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "main_character": "Spider-Man"
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "release_date": "2021-09-03",
+    "chronological_order": 25,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "main_character": "Shang-Chi"
+  },
+  {
+    "title": "Eternals",
+    "release_date": "2021-11-05",
+    "chronological_order": 26,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+    "main_character": "Eternals"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "release_date": "2021-12-17",
+    "chronological_order": 27,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+    "main_character": "Spider-Man"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "release_date": "2022-05-06",
+    "chronological_order": 28,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg",
+    "main_character": "Doctor Strange"
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "release_date": "2022-07-08",
+    "chronological_order": 29,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "main_character": "Thor"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "release_date": "2022-11-11",
+    "chronological_order": 30,
+    "phase": "Phase Four",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+    "main_character": "Black Panther"
+  },
+  {
+    "title": "Ant-Man and The Wasp: Quantumania",
+    "release_date": "2023-02-17",
+    "chronological_order": 31,
+    "phase": "Phase Five",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+    "main_character": "Ant-Man"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "release_date": "2023-05-05",
+    "chronological_order": 32,
+    "phase": "Phase Five",
+    "poster_url": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "main_character": "Star-Lord"
+  },
+  {
+    "title": "The Marvels",
+    "release_date": "2023-11-10",
+    "chronological_order": 33,
+    "phase": "Phase Five",
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmapN4Bt0CJJhilzm64w8DG25qvrTjD73g4Q&s",
+    "main_character": "Captain Marvel"
+  }
+]
